@@ -43,17 +43,16 @@ python scripts/analise_financeira.py
 ## Estrutura do projeto
 
 financeiro-pessoal/
-├── dados/                     # Dados de entrada (.csv)
-├── scripts/                   # Scripts Python
-├── relatorios/                # Gráficos gerados (.png)
-├── README.md                  # Documentação
-└── requirements.txt           # Dependências do projeto
+- ├── dados/                     # Dados de entrada (.csv)
+- ├── scripts/                   # Scripts Python
+- ├── relatorios/                # Gráficos gerados (.png)
+- ├── README.md                  # Documentação
+- └── requirements.txt           # Dependências do projeto
 
 ---
 
 ## Notas sobre o desenvolvimento
-# O código foi inicialmente desenvolvido e testado no Google Colab para facilitar a experimentação e validação rápida das ideias.
-Posteriormente, foi organizado em scripts Python separados para facilitar o uso local e o versionamento no GitHub.
+# O código foi inicialmente desenvolvido e testado no Google Colab para facilitar a experimentação e validação rápida das ideias. Posteriormente, foi organizado em scripts Python separados para facilitar o uso local e o versionamento no GitHub.
 
 ---
 
